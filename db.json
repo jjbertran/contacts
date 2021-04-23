@@ -1,0 +1,54 @@
+{
+    "users":[
+    {
+        "name": "Jordi Ponce",
+        "email": "jponce@gmail.com",
+	      "phone": "666123456",
+        "address": {
+          "street": "Diagonal 102",
+          "city": "Barcelona",
+          "zipcode": "08080"
+        }
+    },
+    {
+        "name": "Ana Rius",
+        "email": "arius@gmail.com",
+	      "phone": "666123456",
+        "address": {
+          "street": "Aribau 10",
+          "city": "Barcelona",
+          "zipcode": "08010"
+        }
+    },
+    {
+        "name": "Pep Pou",
+        "email": "ppou@gmail.com",
+	      "phone": "666423458",
+        "address": {
+          "street": "Balmes 2",
+          "city": "Barcelona",
+          "zipcode": "08004"
+        }
+    },
+    {
+        "name": "Maria Segarra",
+        "email": "msegarra@gmail.com",
+	      "phone": "666323459",
+        "address": {
+          "street": "Gràcia 102",
+          "city": "Barcelona",
+          "zipcode": "08012"
+        }
+    },
+        {
+        "name": "Alba Grau",
+        "email": "agrau@gmail.com",
+	      "phone": "666223457",
+        "address": {
+          "street": "València 202",
+          "city": "Barcelona",
+          "zipcode": "08088"
+        }
+    },
+    ]
+}
