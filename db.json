@@ -35,7 +35,7 @@
         "email": "msegarra@gmail.com",
 	"phone": "666323459",
         "address": {
-          "street": "Gràcia 102",
+          "street": "Gracia 102",
           "city": "Barcelona",
           "zipcode": "08012"
         }
@@ -45,7 +45,7 @@
         "email": "agrau@gmail.com",
 	"phone": "666223457",
         "address": {
-          "street": "València 202",
+          "street": "Valencia 202",
           "city": "Barcelona",
           "zipcode": "08088"
         }
